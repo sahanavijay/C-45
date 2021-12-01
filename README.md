@@ -1,1 +1,1 @@
-# C-45
+# Class-Template-45-Moonlander
